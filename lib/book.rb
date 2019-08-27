@@ -1,6 +1,6 @@
 def Book
   
-  def intitalize(title)
+  def initialize(title)
     @title = title 
   end
   
