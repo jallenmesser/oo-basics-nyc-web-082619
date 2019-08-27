@@ -1,4 +1,5 @@
 def Book
-  intitalize 
+  def intitalize(title)
+    
 end
 
